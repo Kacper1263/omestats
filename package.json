@@ -1,0 +1,24 @@
+{
+  "name": "omestats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kacper1263/omestats.git"
+  },
+  "author": "Kacper Marcinkiewicz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kacper1263/omestats/issues"
+  },
+  "homepage": "https://github.com/Kacper1263/omestats#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "readline-sync": "^1.4.10"
+  }
+}
